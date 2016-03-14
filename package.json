@@ -1,0 +1,31 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "FCC file metadata microservice challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGame2500/file-metadata-microservice.git"
+  },
+  "keywords": [
+    "file",
+    "metadata",
+    "microservice",
+    "FCC",
+    "api"
+  ],
+  "author": "Bira Gabriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheGame2500/file-metadata-microservice/issues"
+  },
+  "homepage": "https://github.com/TheGame2500/file-metadata-microservice#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express.js": "^1.0.0",
+    "multer": "^1.1.0"
+  }
+}
