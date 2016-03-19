@@ -25,7 +25,7 @@
   "homepage": "https://github.com/TheGame2500/file-metadata-microservice#readme",
   "dependencies": {
     "dotenv": "^2.0.0",
-    "express.js": "^1.0.0",
+    "express": "^4.13.4",
     "multer": "^1.1.0"
   }
 }
